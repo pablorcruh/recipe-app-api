@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2ea688-2872-436c-b0ab-f284e9d99588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/core/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592511153280</updated>
       <workItem from="1592511156921" duration="55000" />
-      <workItem from="1592511248322" duration="4164000" />
+      <workItem from="1592511248322" duration="6580000" />
     </task>
     <servers />
   </component>
