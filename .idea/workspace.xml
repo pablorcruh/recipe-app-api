@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea2ea688-2872-436c-b0ab-f284e9d99588" name="Default Changelist" comment="" />
+    <list default="true" id="ea2ea688-2872-436c-b0ab-f284e9d99588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/flake8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +27,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592511153280</updated>
       <workItem from="1592511156921" duration="55000" />
-      <workItem from="1592511248322" duration="1338000" />
+      <workItem from="1592511248322" duration="1958000" />
     </task>
     <servers />
   </component>
@@ -46,6 +57,10 @@
       <screen x="53" y="27" width="1547" height="872" />
     </state>
     <state x="503" y="19" width="642" height="880" key="#Dockerfile/53.27.1547.872/1600.0.640.512@53.27.1547.872" timestamp="1592511452480" />
+    <state x="536" y="255" width="577" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592513135804">
+      <screen x="53" y="27" width="1547" height="872" />
+    </state>
+    <state x="536" y="255" width="577" height="398" key="#com.intellij.fileTypes.FileTypeChooser/53.27.1547.872/1600.0.640.512@53.27.1547.872" timestamp="1592513135804" />
     <state x="486" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1592511261903">
       <screen x="53" y="27" width="1547" height="872" />
     </state>
